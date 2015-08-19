@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://michaelhyx.github.io/"/>
-  <updated>2015-08-19T13:47:12.427Z</updated>
+  <updated>2015-08-19T14:53:13.500Z</updated>
   <id>http://michaelhyx.github.io/</id>
   
   <author>
@@ -13,21 +13,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title><![CDATA[First Post]]></title>
-    <link href="http://michaelhyx.github.io/2015/08/19/First-Post/"/>
-    <id>http://michaelhyx.github.io/2015/08/19/First-Post/</id>
-    <published>2015-08-19T12:21:27.000Z</published>
-    <updated>2015-08-19T13:47:12.427Z</updated>
-    <content type="html"><![CDATA[<p>呼呼</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>呼呼</p>
-]]>
-    </summary>
-    
-  </entry>
   
   <entry>
     <title><![CDATA[背单词是必须的吗？]]></title>
@@ -590,6 +575,29 @@
     </summary>
     
       <category term="意外" scheme="http://michaelhyx.github.io/tags/%E6%84%8F%E5%A4%96/"/>
+    
+      <category term="日志" scheme="http://michaelhyx.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[生日快乐]]></title>
+    <link href="http://michaelhyx.github.io/2014/05/18/e7-94-9f-e6-97-a5-e5-bf-ab-e4-b9-90/"/>
+    <id>http://michaelhyx.github.io/2014/05/18/e7-94-9f-e6-97-a5-e5-bf-ab-e4-b9-90/</id>
+    <published>2014-05-18T15:45:58.000Z</published>
+    <updated>2015-08-19T14:53:13.487Z</updated>
+    <content type="html"><![CDATA[<p>其实你我之间说什么祝贺的，都是客套话。</p>
+<p>这一个星期虽然过得很紧张，很累，最后也挺失落的。但至少生活可以有所期待。在楼下等的时候会期待见到你，在。。。//其实我想写个排比句的</p>
+<p>//其实也许就淹没在一片祝福声之中了。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>其实你我之间说什么祝贺的，都是客套话。</p>
+<p>这一个星期虽然过得很紧张，很累，最后也挺失落的。但至少生活可以有所期待。在楼下等的时候会期待见到你，在。。。//其实我想写个排比句的</p>
+<p>//其实也许就淹没在一片祝福声之中了。</p>
+]]>
+    </summary>
+    
+      <category term="小云" scheme="http://michaelhyx.github.io/tags/%E5%B0%8F%E4%BA%91/"/>
     
       <category term="日志" scheme="http://michaelhyx.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
